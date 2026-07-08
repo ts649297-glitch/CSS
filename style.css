@@ -1,0 +1,29 @@
+.head{
+    color: darkblue;
+}
+#bglime{
+    background-color:lime;
+}
+#bglime span{
+    color: red;
+}
+body{
+    background-color: rgba(255, 24, 51, 0.753);
+}
+#para{
+    color : green;
+    font-size:13px;
+}
+ul{
+    color: white;
+}
+p{
+    color: white;
+}
+p span{
+    color: black;
+    font-size: 25px;
+}
+ul li :last-child span{
+    background-color: purple;
+}
